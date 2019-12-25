@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# IDE and temp
+.DS_Store
+.idea
+.vs
+.vscode
+bin/
+build/
